@@ -102,6 +102,10 @@ Both sections track significant published changes rather than every internal edi
 
 ## Website
 
+### [1.1] - 2026-11-24
+#### Changed
+- Improve SEO 
+
 ### [1.0] - 2026-11-17 - First Official Publication
 
 #### Added
